@@ -1,4 +1,4 @@
-### Hi there 👋
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=2000&pause=2000&color=41B883&vCenter=true&width=210&height=35&lines=IliHanSoLow)](https://git.io/typing-svg)
 
 <!--
 **IliHanSoLow/IliHanSoLow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
