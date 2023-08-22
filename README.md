@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 ## `📊` STATISTICS
 <div align="center">
           
-![](https://raw.githubusercontent.com/cr-0w/cr-0w/output/github-contribution-grid-snake.svg)
-![](https://stats.crow.rip/api?username=cr-0w&show_icons=true&hide_title=true&icon_color=41B883&ring_color=41B883&text_bold=false&include_all_commits=true)
-![](https://stats.crow.rip/api/top-langs/?username=cr-0w&layout=compact&title_color=41B883) <br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cr-0w&theme=vue) <br>
+![](https://raw.githubusercontent.com/IliHanSoLow/IliHanSoLow/output/github-contribution-grid-snake.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliHanSoLow&theme=vue) <br>
 
 </div>
 
