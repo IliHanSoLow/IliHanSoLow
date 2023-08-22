@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## `📊` STATISTICS
 <div align="center">
+
+[![IliHanSoLows' GitHub stats](https://github-readme-stats.vercel.app/api?username=IliHanSoLow)](https://github.com/anuraghazra/github-readme-stats)
           
 ![](https://raw.githubusercontent.com/IliHanSoLow/IliHanSoLow/output/github-contribution-grid-snake.svg)
 
