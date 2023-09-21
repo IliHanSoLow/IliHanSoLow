@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 </div>
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=5000&pause=2000&color=41B883&vCenter=true&width=500&height=35&lines=418.%20I'm%20a%20teapot")](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&size=30&duration=5000&pause=2000&color=41B883&vCenter=true&width=500&height=35&lines=418.%20I'm%20a%20teapot)](https://git.io/typing-svg)
