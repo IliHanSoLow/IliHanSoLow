@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- ![](https://raw.githubusercontent.com/IliHanSoLow/IliHanSoLow/output/github-contribution-grid-snake.svg)-->
-![](https://github-readme-stats-lovat-beta.vercel.app/api?username=IliHanSoLow&show_icons=true&hide_title=true&icon_color=41B883&ring_color=41B883&text_bold=false&include_all_commits=true)
-![](https://github-readme-stats-lovat-beta.vercel.app/api/top-langs/?username=IliHanSoLow&layout=compact&title_color=41B883&exclude_repo=github-readme-stats) <br>
+<!--![](https://github-readme-stats-lovat-beta.vercel.app/api?username=ilihansolow&show_icons=true&hide_title=true&icon_color=&ring_color=41B883&text_bold=false&include_all_commits=true) -->
+![](https://github-readme-stats-lovat-beta.vercel.app/api?username=ilihansolow&show_icons=true&hide_title=true&theme=midnight-purple&text_bold=false&include_all_commits=true&exclude_repo=wgg-homepage)
+![](https://github-readme-stats-lovat-beta.vercel.app/api/top-langs?username=IliHanSoLow&layout=compact&theme=midnight-purple&exclude_repo=github-readme-stats) <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IliHanSoLow&theme=midnight_purple) <br>
 
 </div>
