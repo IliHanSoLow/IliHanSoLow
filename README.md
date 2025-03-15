@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 [<img height="200" align="center" src="https://github-readme-stats-bay-omega-48.vercel.app/api?username=ilihansolow&show_icons=true&theme=darcula&bg_color=00000000&exclude_repo=github-readme-stats,wgg-homepage,legacy-homepage,wgg-homepage-archive,Obsidian" alt="Stats" />]()
-[<img height="200" align="center" src="https://github-readme-stats-bay-omega-48.vercel.app/api/top-langs?username=ilihansolow&langs_count=8&theme=darcula&bg_color=00000000&exclude_repo=github-readme-stats,wgg-homepage,legacy-homepage,wgg-homepage-archive,Obsidian" alt="Langs" />]()
+[<img height="200" align="center" src="https://github-readme-stats-bay-omega-48.vercel.app/api/top-langs?username=ilihansolow&langs_count=8&theme=darcula&bg_color=00000000&layout=compact&exclude_repo=github-readme-stats,wgg-homepage,legacy-homepage,wgg-homepage-archive,Obsidian" alt="Langs" />]()
 ![](https://raw.githubusercontent.com/IliHanSoLow/IliHanSoLow/output/github-contribution-grid-snake.svg)
 <!--![](https://github-readme-stats-lovat-beta.vercel.app/api?username=ilihansolow&show_icons=true&hide_title=true&icon_color=&ring_color=41B883&text_bold=false&include_all_commits=true) -->
 <!-- ![](https://github-readme-stats-lovat-beta.vercel.app/api?username=ilihansolow&show_icons=true&hide_title=true&theme=midnight-purple&text_bold=false&include_all_commits=true)
